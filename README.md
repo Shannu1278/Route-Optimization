@@ -1,11 +1,11 @@
 # 🚗 Route Optimization Using Algorithms
 ---
 TEAM MEMEBERS
-- 1)G.Mahidhar -- AP24110011386
-- 2)K.Sathvik  -- AP24110011388
-- 3)J.vamsi    -- AP24110011282
-- 4)T.Nasar    -- AP24110011389
-- 5)SK.Nizam   -- AP24110011369
+- 1)E.devi suchithra -- AP24110011392
+- 2)T.Vyshnavi  -- AP24110011339
+- 3)L.Nikhitha    -- AP24110011374
+- 4)K.Pranitha    -- AP24110011376
+- 5)T.Shanmukha sai   -- AP24110011281
 ---
 > **CCC Algorithm Project** — Demonstrating Greedy & Dynamic Programming through City Route Optimization
 
